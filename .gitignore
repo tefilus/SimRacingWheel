@@ -1,0 +1,11 @@
+build/
+*.exe
+*.o
+*.a
+*.so
+*.lib
+*.dll
+*.obj
+*.bak
+*.hex
+*.elf
